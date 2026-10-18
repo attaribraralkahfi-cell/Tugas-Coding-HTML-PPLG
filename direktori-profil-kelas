@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<body>
+    <h1 align="center">🎓DIREKTORI PROFIL KELAS X PPLG 1 </h1>
+    <p align="center"><i>Buku Angkutan Digital dan Galeri Profil Siswa Pengembangan Perangkat Lunak dan Gim</i></p>
+</body>
+  
+<style>
+body { margin-right: 200px;
+}
+table, td { border:1px solid black; 
+border-collapse: collapse;
+border-width: px;
+}
+  
+</style>
+</head>
+
+  <hr>
+  <h3>📌Informasi Umum Kelas</h3>
+  <table border="1" width="70%" cellpanding="5">
+
+  <tr>  
+  <td><b>Wali Kelas</b></td>  
+  <td>Moh. Shobirin, S.Kom.,Gr</td>
+  </tr>
+  <tr>  
+  <td><b>Ketua Kelas</b></td>  
+  <td>Muhammad Bilal Akbar</td>
+  </tr>
+  <tr>  
+  <td><b>Jumlah Siswa</b></td>  
+  <td>36 Siswa</td>
+  </tr>
+  <tr> 
+  <td><b>Slogan Kelas</b></td>  
+  <td><i>"Code Your Dream, Build Your Future"</i></td>
+  </tr>
+  </table>
+<br>
+
+<h3>🗒️Daftar Anggota Kelas</h3>
+<ol>
+    <li><a href="bilal">Muhammad Bilal Akbar(ketua kelas)</a></li>
+    <li><a href="azzah">Rihhadatul Azzah (Bendahara 2)</a></li>
+    <li><a href="sofia">Sofia Annisyahrani Amalia (Member Kelas)</a></li>
+    <li><a href="saleh">Moch Saleh Sya'bani Ali (Member kelas)</a></li>
+    <li><a href="andra">Jovi Andra Fharesa (Member Kelas)</a></li>
+    <li><a href="faiq">Muhammad Faiq Setyobudi (Member Kelas)</a></li>
+</ol>
+
+<hr>
+
+<h4 id="Bilal">👤Profil Siswa PPLG 01 "Muhammad Bilal Akbar"</h4>
+
+  <table border="1" cellpadding="14"width="100%">
+    <tr>
+      <td align="center">
+        <img src="bilal.jpeg"
+          alt="foto.bilal"
+          width="145" height="143">
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audio.bilal.ogg" 
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul>
+                    <li>Nama=Muhammad Bilal Akbar</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat= Pogar, Bangil</li>
+                  <li>NISN=0106630761</li>
+                  <li>Tempat,Tanggal Lahir=Pasuruan,13 Maret 2010</li>
+                  <li>Hobi=Bermain Sepak Bola</li>
+                  <li>Cita Cita=Ingin Menjadi Tentara</li>
+                  <li>Motto=dunia jahat yang baik cuma mama</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+
+          </td>
+</tr>
+    </table>
+<p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+</p>
+<hr>
+
+<h4 id="Azzah">👤Profil Siswa PPLG 02 "Rihhadatul Azzah"</h4>
+
+  <table border="1" cellpadding="10"width="100%">
+    <tr>
+      <td align="center">
+        <img src="azzah.jpeg"
+          alt="foto azzah"
+          width="145" height="143">
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audioazzah.ogg"
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul>
+                     <li>Nama=Rihhadatul Azzah</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat= Pogar, Bangil</li>
+                  <li>NISN=0102181174</li>
+                  <li>Tempat,Tanggal Lahir=Pasuruan,08 Oktober 2010</li>
+                  <li>Hobi=Mendengarkan Musik</li>
+                  <li>Cita Cita=Ingin Menjadi Sukses</li>
+                  <li>Motto=Jadilah lebih baik dari dirimu yang kemarin</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+
+          </td>
+          
+    </tr>
+    </table>
+<p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+</p>
+<hr>
+
+<h4 id="Sofia">👤Profil Siswa PPLG 03 "Sofia Annisyahrani Amalia"</h4>
+
+  <table border="1" cellpadding="20"width="100%">
+    <tr>
+      <td align="center">
+        <img src="sofia.jpeg"
+          alt="Foto sofia"
+          width="145" height="143">
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audio sofia.ogg" 
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul>
+                    <li>Nama=Sofia Annisyahrani Amalia</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat= Bangil, Pasuruan</li>
+                  <li>NISN=0119682893</li>
+                  <li>Tempat,Tanggal Lahir=Pasuruan,06 Januari 2010</li>
+                  <li>Hobi=Membaca Buku</li>
+                  <li>Cita Cita=Software Engineers</li>
+                  <li>Motto=its fine to fake it until you make it, until you do, until its true-taylor swift</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+         </td>
+          
+    </tr>
+    </table>
+<p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+</p>
+<hr>
+
+<h4 id="andra">👤Profil Siswa PPLG 04 "Jovi Andra Fharesa"</h4>
+
+  <table border="1" cellpadding="10"width="100%">
+    <tr>
+      <td align="center">
+        <img src="andra.jpeg"
+          alt="Foto Andra"
+          width="145" height="143">
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audioandra.ogg" 
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul> 
+                    <li>Nama=Jovi Andra Fharesa</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat= Tulangan, Sidoarjo</li>
+                  <li>NISN=0106630761</li>
+                  <li>Tempat,Tanggal Lahir=Sidoarjo,12 April 2011</li>
+                  <li>Hobi=Olahraga</li>
+                  <li>Cita Cita=Ingin Menjadi Sukses</li>
+                  <li>Motto=kejujuran adalah kesederhanaan yang paling mewah</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+
+          </td>
+          
+    </tr>
+    </table>
+<p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+</p>
+<hr>
+
+<h4 id="saleh">👤Profil Siswa PPLG 05 "Moch.Saleh Sya'bani Ali V.A"</h4>
+
+  <table border="1" cellpadding="10"width="100%">
+    <tr>
+      <td align="center">
+        <img src="saleh.jpeg"
+          alt="Foto Saleh"
+          width="145" height="143">
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audiosaleh.ogg" 
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul>
+                    <li>Nama=Moch. Saleh Sya'bani Ali V.A</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat=Jl. Raya Pasuruan No. 123</li>
+                  <li>NISN=0106630761</li>
+                  <li>Tempat,Tanggal Lahir=Pasuruan,14 Juli 2011</li>
+                  <li>Hobi=Memanah</li>
+                  <li>Cita Cita=Ingin Menjadi Guru bahasa arab dan ustad</li>
+                  <li>Motto=jagalah allah maka allah menjagamu</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+
+          </td>
+          
+    </tr>
+    </table>
+
+  <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+  </p><hr>
+
+<hr>
+
+<h4 id="Faiq">👤Profil Siswa PPLG 07 "Muhammad Faiq Setyobudi"</h4>
+
+  <table border="1" cellpadding="14"width="100%">
+    <tr>
+      <td align="center">
+        <img src="faiq.jpeg"
+          alt="foto.faiq"
+          width="145" height="143">
+          
+        <h4>Suara Perkenalan</h4>
+        <audio controls>
+          <source src="audiofaiq.ogg" 
+            type="audio/ogg">
+            </audio>
+       </td>
+
+              <td>
+                <ul>
+                    <li>Nama=Muhammad Faiq Setyobudi</li>
+                    <li>Kelas=X PPLG</li>
+                    <li>Alamat= Pogar, Bangil</li>
+                  <li>NISN=0106630761</li>
+                  <li>Tempat,Tanggal Lahir=Sidoarjo,06 Desember2010</li>
+                  <li>Hobi=Bermain Sepak Bola</li>
+                  <li>Cita Cita=Ingin Menjadi Pilot</li>
+                  <li>Motto=Be Better, Not Bitter</li>
+                </ul>
+
+          <details>
+          <summary>Lihat Riwayat dan Keahlian</summary>
+          <p>Riwayat: Siswa Kelas X PPLG</p>
+          <p>Keahlian: Dasar Pemrograman</p>
+          </details>
+
+          </td>
+</tr>
+    </table>
+<p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+</p>
