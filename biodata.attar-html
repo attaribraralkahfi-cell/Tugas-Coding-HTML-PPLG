@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>📜BIODATA SAYA</h1>
+
+<p>Nama : Attar Ibrar Al Khafi</p>
+<p>Kelas: X PPLG</p>
+<p>Sekolah: SMK Negeri 1 Bangil</p>
+<p>Alamat : Bahrowo</p>
+<p>No WA: 085959140799</p>
+<p>Tinggi Badan : 183<sub>cm</sub></p>
+<p>Tempat Tanggal lahir : Pasuruan, 03 Mei 2011</p>
+<p>Suhu Badan : 30<sup>o</sup></p>
+
+<p><strong>Pendidikan</strong>
+<table border="1" width="70%" cellpanding="4">
+<tr>  
+  <td><b>TK AR RIEZA DUA</b></td>
+  <td><b>2014-2015</b></td>
+  <tr>  
+  <td><b>SDN KEDUNGRINGIN 3 BEJI</b></td>
+  <td><b>2016-2023</b></td>
+  <tr>  
+  <td><b>SMP NEGERI 1 BANGIL</b></td>
+  <td><b>2023-2026</b></td>
+  </tr>
+  <tr> 
+  <td><b>SMK NEGERI 1 BANGIL</b></td>  
+  <td><b>2026-Sekarang</b></td>
+  </tr>
+  </table>
+<br>
+</p>
+
+<br>🔐Sosial media :<a
+href="https://www.instagram.com/aatt4r.khaa?srtk=MW14ZWliaG1iNWpncA==">Link Instagram</a>
+
+<hr>Foto :<br><img src="https://files.catbox.moe/1li31v.jpeg" alt="ini fotoku" width= "30%">
+
+<p><strong>🧑👩Daftar keluarga</strong>
+<table border="1" width="70%" cellpanding="5">
+</p>
+  <tr>  
+  <td><b>Ayah</b></td>  
+  <td>Hariyono</td>
+  </tr>
+  <tr>  
+  <td><b>Ibu</b></td>  
+  <td>Tatik Purwanti</td>
+  </tr>
+  <tr>  
+  <td><b>Kakak</b></td>  
+  <td>Avisena Harwanti Rahmadhani</b></td>
+  </tr>
+  </table>
+<br>
+
+</body>
+</html>
